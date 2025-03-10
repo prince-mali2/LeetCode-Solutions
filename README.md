@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
