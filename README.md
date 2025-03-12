@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
