@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
@@ -108,5 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
