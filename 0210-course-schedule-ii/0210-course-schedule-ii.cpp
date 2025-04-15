@@ -3,7 +3,7 @@ public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
         vector<int> ans;
-        vector<int> v;
+ 
 
        vector<int> inDeg(numCourses,0);
 
@@ -30,6 +30,6 @@ public:
         }
     if(ans.size() == numCourses) return ans;
 
-    return v;
+    return vector<int>();
     }
 };
