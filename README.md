@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
