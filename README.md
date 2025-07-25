@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
