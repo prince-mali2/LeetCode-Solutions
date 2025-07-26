@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
