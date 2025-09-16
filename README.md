@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
