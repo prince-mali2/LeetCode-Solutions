@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -223,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
