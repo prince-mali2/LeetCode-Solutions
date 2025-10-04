@@ -8,15 +8,17 @@ public:
         int count=0;
         if(n==1)return 0;
 
-        for(int i=0;i<n-1;i++){
-            r = max(r , i+nums[i]);
+       while(r<n-1){
+        int farthest =0 ;
 
-            if(i==l){
-                count++;
-                l=r;
-            }
+        for(int i=l; i<=r;i++){
+            farthest = max(farthest, i+nums[i]);
         }
+        l=r+1;
+        r = farthest;
 
+        count++;
+       }
     return count;
     }
 };
