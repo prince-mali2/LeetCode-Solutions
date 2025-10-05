@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0135-candy) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0455-assign-cookies) |
