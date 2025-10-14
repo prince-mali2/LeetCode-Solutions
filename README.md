@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
@@ -291,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
