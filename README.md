@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Heap (Priority Queue)
