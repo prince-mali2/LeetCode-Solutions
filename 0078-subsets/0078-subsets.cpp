@@ -1,17 +1,23 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        int total = 1<<n;
-        vector<vector<int>> ans;
-
-        for(int i=0;i<total;i++){
-            vector<int> v;
-            for(int j=0;j<n;j++){
-                if(i & (1<<j))v.push_back(nums[j]);
-            }
-            ans.push_back(v);
+    void rec(int i, vector<int> &nums, vector<int> subsets, vector<vector<int>> &ans){
+        if(i==nums.size()){
+            ans.push_back(subsets);
+            return;
         }
+
+        // not take the element
+        rec(i+1, nums, subsets, ans);
+
+        //take the element
+        subsets.push_back(nums[i]);
+        rec(i+1, nums,subsets,ans);
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        
+        vector<int> subsets;
+        vector<vector<int>> ans;
+        rec(0, nums, subsets, ans);
         return ans;
     }
 };
