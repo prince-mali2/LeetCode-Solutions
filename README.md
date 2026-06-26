@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
