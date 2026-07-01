@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0169-majority-element) |
