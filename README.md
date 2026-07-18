@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/prince-mali2/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
